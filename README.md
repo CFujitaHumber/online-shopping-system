@@ -7,7 +7,7 @@ Uses JavaSE-23. Application will use `Scanner` from `java.util` from `System.in`
 
 
 ##UML
-![UML diagram of Assignment](https://github.com/CFujitaHumber/online-shopping-system/blob/main/docs/program-diagram.jpg?raw=true)
+![UML diagram of Assignment](https://github.com/CFujitaHumber/online-shopping-system/blob/main/docs/program-diagram.png?raw=true)
 
 
 ### Inputs
