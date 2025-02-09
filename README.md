@@ -6,7 +6,6 @@ This has been rewritten to not use dynamic arrays and generics as use of data st
 Uses JavaSE-23. Application will use `Scanner` from `java.util` from `System.in` to run.
 
 
-##UML
 ![UML diagram of Assignment](https://github.com/CFujitaHumber/online-shopping-system/blob/main/docs/program-diagram.png?raw=true)
 
 
